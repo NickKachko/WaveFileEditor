@@ -1,0 +1,9 @@
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\bin\Debug\Wave File Editor.exe.config
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\bin\Debug\Wave File Editor.exe
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\bin\Debug\Wave File Editor.pdb
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave File Editor.csprojResolveAssemblyReference.cache
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave_File_Editor.Form1.resources
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave_File_Editor.Properties.Resources.resources
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave File Editor.csproj.GenerateResource.Cache
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave File Editor.exe
+D:\KPI\Visual Studio 2010\Projects\Wave File Editor\Wave File Editor\obj\Debug\Wave File Editor.pdb
